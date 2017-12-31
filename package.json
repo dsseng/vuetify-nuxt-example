@@ -10,7 +10,6 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "electron": "^1.7.10",
     "nuxt": "^1.0.0-rc11",
     "vuetify": "^0.17.4"
   },
