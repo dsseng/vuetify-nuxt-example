@@ -10,7 +10,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^1.0.0-rc11",
+    "nuxt": "^2.3.0",
     "vuetify": "^0.17.4"
   },
   "devDependencies": {
